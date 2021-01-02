@@ -1,7 +1,5 @@
 ### Hello there! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Ueban
 - 🌱 I’m currently learning C++ and C#
 - 💬 I'm speaking on English and Russian
