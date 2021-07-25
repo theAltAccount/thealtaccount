@@ -1,10 +1,5 @@
 ### Hello there! 👋
 
-- 🔭 I’m currently working on Ueban
-- 🌱 I’m currently learning C++ and C#
-- 💬 I'm speaking on English and Russian
-- 📫 How to reach me: theAltAccount#6098 on Discord
-- ⚡ Fun fact: cat on the avatar isn't mine
 
 
 
